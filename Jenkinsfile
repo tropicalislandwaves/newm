@@ -7,13 +7,15 @@ pipeline {
   stages {
     
 	stage('deploy') {
-
+		steps{
 	
 	echo "My name is "
-	
+		}
 	}
   stage ('noth'){
+	  steps{
   echo "mY last nane"
+	  }
   }
 	
 	}
