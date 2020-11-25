@@ -9,7 +9,7 @@ pipeline {
 	stage('deploy') {
 		steps{
 	
-	echo "My name ssffsfis "
+	echo "My name sffffsffsfis "
 		}
 	}
   stage ('noth'){
