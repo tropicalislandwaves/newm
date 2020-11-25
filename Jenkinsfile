@@ -23,7 +23,7 @@ pipeline {
   
    
   post {
-   alaways {
+   always {
      echo "hello"
      }
      }
