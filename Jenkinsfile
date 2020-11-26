@@ -9,7 +9,7 @@ pipeline {
 	stage('deploy') {
 		steps{
 	
-	echo "My name ssffsfjhgfis "
+	echo "My name ssffsfjhgfis evn.BRANCH_NAME "
 		}
 	}
   stage ('noth'){
