@@ -14,7 +14,7 @@ pipeline {
 	}
   stage ('noth'){
 	  steps{
-  echo "mY last nanffe"
+  echo "mY last nalnffe"
 	  }
   }
 	
