@@ -9,7 +9,7 @@ pipeline {
 	stage('deploy') {
 		steps{
 	
-			echo "My name ssffffsfjhgfis ${env.BRANCH_NAME} "
+			echo "My name ssffffsfjhgfis %{env.BRANCH_NAME}% "
 		}
 	}
   stage ('noth'){
