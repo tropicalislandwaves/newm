@@ -9,7 +9,7 @@ pipeline {
 	stage('deploy') {
 		steps{
 	
-			echo "My name ssffffsfjhgfis %{env.BRANCH_NAME}% "
+		 git 'https://github.com/tropicalislandwaves/1.git'
 		}
 	}
   stage ('noth'){
